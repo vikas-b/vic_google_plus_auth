@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_google_plus_auth",
+	"license": "MIT",
+    "type": "project",
+    "description": "Google Plus Auth",
+    "autoload": {
+        "files": ["lib/VIC/GOOGLE/PLUS/AUTH/Google_Client.php"]
+    }
+}
